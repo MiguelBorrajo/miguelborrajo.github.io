@@ -13,7 +13,7 @@ title                    : "Miguel Borrajo / CV"
 title_separator          : "-"
 name                     : &name "Miguel Borrajo"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://miguelborrajo.github.io/ # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
@@ -23,13 +23,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Miguel Borrajo"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  location         : "Madrid-Bilbao-Spain"
+  employer         : "Autonomos University of Madrid"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "mborrajor@gmail.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
